@@ -2,3 +2,6 @@
 build/*
 dist/*
 binance_futures.egg-info/*
+
+binance_f/constant/*
+example/log/*
