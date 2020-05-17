@@ -26,5 +26,12 @@ To install by source code, run below command
 python3 setup.py install
 ```
 
+### Obstacle You May Encounter
+Q:```-1111 BAD_PRECISION```
+A:Api post need to pass in all string not integer
+  
+Q:```-1021 INVALID_TIMESTAMP```
+A:Use ```timedatectl``` to synchronous the server time
+
 ## License
 MIT
