@@ -1,4 +1,4 @@
-# Binance Futures Python SDK
+# Binance Futures Python SDK (Customized Version)
 
 This is Binance Futures Ptyhon SDK, a lightweight python library. You can import to your ptyhon project and use this SDK to query all market data, trading and manage your account.
 
@@ -27,10 +27,10 @@ python3 setup.py install
 ```
 
 ### Obstacle You May Encounter
-Q:```-1111 BAD_PRECISION```
+Q:```-1111 BAD_PRECISION```  
 A:Api post need to pass in all string not integer
   
-Q:```-1021 INVALID_TIMESTAMP```
+Q:```-1021 INVALID_TIMESTAMP```  
 A:Use ```timedatectl``` to synchronous the server time
 
 ## License
