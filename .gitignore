@@ -3,5 +3,5 @@ build/*
 dist/*
 binance_futures.egg-info/*
 
-binance_f/constant/*
+binance_f/constant/test.py
 example/log/*
