@@ -24,7 +24,7 @@ def _print_obj(obj):
             break
     return price
 
-def get_ETH_price:
+def get_ETH_price():
     request_client = RequestClient(api_key=g_api_key, secret_key=g_secret_key)
     result = request_client.get_mark_price(symbol="ETHUSDT")
     return float(_print_obj(result))
