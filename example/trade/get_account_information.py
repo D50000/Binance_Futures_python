@@ -24,4 +24,4 @@ def maxWithdrawAmount():
     print("=== Positions ===")
     PrintMix.print_data(result.positions)
     print("==============")
-    return result.maxWithdrawAmount
+    return result.maxWithdrawAmount, result.totalMarginBalance
