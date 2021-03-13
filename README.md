@@ -1,3 +1,6 @@
+## To do
+- rebase and update the fork
+
 # Binance Futures Python SDK (Customized Version)
 
 This is Binance Futures Ptyhon SDK, a lightweight python library. You can import to your ptyhon project and use this SDK to query all market data, trading and manage your account.
